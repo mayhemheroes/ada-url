@@ -1,0 +1,6 @@
+project: ada-url
+target: parse
+cmds:
+  - cmd: /mayhem/parse
+    libfuzzer: true
+    dictionary: /mayhem/mayhem/url.dict

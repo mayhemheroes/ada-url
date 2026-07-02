@@ -1,0 +1,6 @@
+project: ada-url
+target: idna
+cmds:
+  - cmd: /mayhem/idna
+    libfuzzer: true
+    dictionary: /mayhem/mayhem/url.dict

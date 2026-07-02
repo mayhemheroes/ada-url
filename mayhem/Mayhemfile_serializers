@@ -1,0 +1,6 @@
+project: ada-url
+target: serializers
+cmds:
+  - cmd: /mayhem/serializers
+    libfuzzer: true
+    dictionary: /mayhem/mayhem/url.dict

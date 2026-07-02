@@ -1,0 +1,1 @@
+ldap://localhost:389/ou=People,o=JNDITutorial

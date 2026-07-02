@@ -1,0 +1,1 @@
+Anything other than ASCII digit stops the port parser in a setter but is not an error

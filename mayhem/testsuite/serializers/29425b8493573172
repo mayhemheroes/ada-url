@@ -1,0 +1,1 @@
+Non-special relative: \ should not enter RelativeSlash, so / is a path separator

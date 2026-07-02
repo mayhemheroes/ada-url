@@ -1,0 +1,6 @@
+project: ada-url
+target: ada_c
+cmds:
+  - cmd: /mayhem/ada_c
+    libfuzzer: true
+    dictionary: /mayhem/mayhem/url.dict

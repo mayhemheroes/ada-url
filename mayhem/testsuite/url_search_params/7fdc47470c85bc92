@@ -1,0 +1,1 @@
+Port numbers are 16 bit integers, overflowing is an error. Hostname is still set, though.

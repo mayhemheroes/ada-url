@@ -1,0 +1,6 @@
+project: ada-url
+target: unicode
+cmds:
+  - cmd: /mayhem/unicode
+    libfuzzer: true
+    dictionary: /mayhem/mayhem/url.dict

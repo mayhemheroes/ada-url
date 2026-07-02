@@ -1,0 +1,1 @@
+redis://foo:bar@somehost:6379/0?baz=bam&qux=baz

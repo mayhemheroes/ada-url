@@ -1,0 +1,6 @@
+project: ada-url
+target: url_search_params
+cmds:
+  - cmd: /mayhem/url_search_params
+    libfuzzer: true
+    dictionary: /mayhem/mayhem/url.dict

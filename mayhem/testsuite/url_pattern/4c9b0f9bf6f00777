@@ -1,0 +1,1 @@
+NFC normalization (forbidden < and > characters are normalized to valid ones)
